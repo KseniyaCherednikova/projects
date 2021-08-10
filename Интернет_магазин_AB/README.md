@@ -1,4 +1,4 @@
-# Portfolio
+
 ## [Проверка гипотез по увеличению выручки в интернет-магазине, оценить результаты A/B теста](https://nbviewer.jupyter.org/github/KseniyaCherednikova/projects/blob/main/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD_AB/%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82_%D0%BC%D0%B0%D0%B3%D0%B0%D0%B7%D0%B8%D0%BD_AB.ipynb)
 ### Описание проекта
 Контекст
